@@ -16,7 +16,9 @@
         criviers0289@gmail.com
         chris.riviers (IG)
         ChrisRiviers1 (Twitter)
-        CHris Riviers (LinkedIn)
+        <a href="https://www.linkedin.com/in/chris-riviers/">Chris Riviers</a> (LinkedIn)
+        
+        
 
 <!---
 criviers/criviers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
