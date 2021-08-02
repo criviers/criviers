@@ -14,8 +14,8 @@
         front-end development 
 - 📫 How to reach me ...
         criviers0289@gmail.com
-        chris.riviers (IG)
-        ChrisRiviers1 (Twitter)
+        <a href="https://www.instagram.com/chris.riviers/">chris.riviers</a> (IG)
+        <a href="https://twitter.com/ChrisRiviers1">ChrisRiviers1</a> (Twitter)
         <a href="https://www.linkedin.com/in/chris-riviers/">Chris Riviers</a> (LinkedIn)
         
         
